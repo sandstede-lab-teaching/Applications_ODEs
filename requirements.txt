@@ -1,5 +1,5 @@
-ipympl>=0.5.8
-ipywidgets>=7.5.1
+ipympl==0.5.8
+ipywidgets==7.5.1
 matplotlib>=3.3.2
 numpy>=1.19.2
 pandas
