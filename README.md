@@ -7,4 +7,4 @@ This repository contains Jupyter notebooks written in Python that illustrate the
 * Tipping points: provides interactive explorations of saddle-node bifurcations, tipping points, and hysteresis in models of budworm populations and global climate energy balances
 * Yeast model: explores the logistic equations and fits its solutions to experimenbtal yeast growth data.
 
-These notebooks require ipywidgets, math, matplotlib, numpy, and scipy.
+These notebooks run on a JupyterLab (which can be installed using, for instance, [Anaconda](https://www.anaconda.com)) with a Python 3 kernel. The notebooks require the modules ipywidgets, math, matplotlib, numpy, and scipy. If IPython is used, replace `%matplotlib widget` with `%matplotlib notebook` in each notebook.
