@@ -1,0 +1,9 @@
+ipympl>=0.5.8
+ipywidgets>=7.5.1
+matplotlib>=3.3.2
+matplotlib-base>=3.3.2
+numpy>=1.19.2
+numpy-base>=1.19.2
+numpydoc>=1.1.0
+scikit-image>=0.17.2
+scipy>=1.5.2
